@@ -105,14 +105,25 @@ body{
         width: 327px;
         height: 560px;
     }
+    .container img{
+        margin-top: 0;
+    }
     .heading{
         font-size: 22px;
+        margin-top: 30px;
+        margin-bottom: 20px;
     }
     .paragraph{
         font-size: 15px;
     }
+    .info{
+        margin-top: 30px;
+    }
     .info h3,h6{
         font-size: 14px;
+    }
+    .submit{
+        margin: 25px auto;
     }
     .change{
         width: 48px;
